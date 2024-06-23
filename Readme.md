@@ -1,10 +1,10 @@
-## Project Name: My Static Website
+## Project Name: Pharmatica
 
 ### Overview
 Welcome to **Pharmatica**! This project is a simple, static website created to showcase [here](https://rake93.github.io/pharmatica-demo/). (e.g., personal portfolio, blog, product landing page). The website is built using [Technologies](#technologies-used), and it is hosted on GitHub Pages for easy access and deployment.
 
 ### Table of Contents
-- [Project Name: My Static Website](#project-name-my-static-website)
+- [Project Name: Pharmatica](#project-name-pharmatica)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
